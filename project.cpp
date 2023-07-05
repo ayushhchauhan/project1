@@ -17,7 +17,7 @@
 
 void createMatrix(int arr[][4])
 {
-    int n = 15;
+    int n = 20;
     int num[n], i, j;
     for (i = 0; i < 15; i++)
         num[i] = i + 1;
